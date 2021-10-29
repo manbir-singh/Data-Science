@@ -1,6 +1,6 @@
 # AirBnb Analysis with SQL and Pandas
 
-Basic analysis of Airbnb listing data in SQL and Pandas. Data files were read from csv through pandas, and then analyzed with SQL and pandas. Visualizations were created with pandas and matplotlib/seaborn. A local MySQL server was then created to house the data and then connencted with the jupyter notebook to interact with data.
+Basic analysis of Airbnb listing data in SQL and Pandas. Data files were read from csv through pandas, and then analyzed with SQL and pandas. Visualizations were created with pandas and matplotlib/seaborn. A local MySQL server was then created to house the data and then connected with the jupyter notebook to interact with data.
 
 Data was downloaded from http://insideairbnb.com/get-the-data.html 
 
